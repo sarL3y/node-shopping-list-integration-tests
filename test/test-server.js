@@ -39,7 +39,8 @@ describe("Shopping List", function() {
   it("should list items on GET", function() {
     // for Mocha tests, when we're dealing with asynchronous operations,
     // we must either return a Promise object or else call a `done` callback
-    // at the end of the test. The `chai.request(server).get...` call is asynchronous
+    // at the end of the test. The `chai.request(server).get...` call is 
+    // asynchronous
     // and returns a Promise, so we just return it.
     return chai
       .request(app)
