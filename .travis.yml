@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: xWLilYJSKACr7cyjLFJ1XFO9HrwNuZdClJyabCfrnIM6plTkA7nCBW+2IpLIWkPF29J69JgFVAkhIhZc+oWVLsxocpXSbA28ppe+Hg4HqIUnJjPMS1UZTR5b/FWMlWJp5jxX2DrL+DJmoScQcEE6q0ope4NeAekheWpO5kYF8aVpylg2ntMqlDwmuJ5OWDauigz7VduRLmK0BlgTy32S5sxJ0T4LSxeaJ1f/VVZ2/NF3J43PZrauOAIZ9rrnXjRMU5Ot6lQW71wDD3f6CXOkli70OrpXJOhBRiCFD8i9Te78vkYrW/hY5Y5UTCX42Z5FBFe/+CkqS4+aph9B+8rlpj6CaL3KSMul61ILOStxiKxGM8P3uZk+NZAw/WaibKvJuv/Vic/KTloyAVrqwxKd8UhlNQWeS5a41V+OAFTlT/Zll4vJaKZ+00SKBe5uzGD0DpsaoCrcJ3Ft0i6DOsGPb4tKD1LfXYVXmUFSckGfDYTvjfwk/akDn4gNi3AUeaNIjJ+Q/VIRIc8Crd6xCcthBZWqLR6C5j6b976z0yPFrQ4Oz9SJkF2K3rzbpV/IK4+3F/G1RLdEmvyMNHxp6gVwsQKlTvX5an1Ov54W/qejj5RGNR9DuIVq+1bpxhqQ5/NwyOTPhIMatSYLfsyFSv+ubsfckF/VNYtubd70CdwVNDA=
-  app: https://sheltered-basin-44497.herokuapp.com/
+  app: sheltered-basin-44497
   on:
     repo: sarL3y/node-shopping-list-integration-tests
